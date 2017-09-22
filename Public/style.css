@@ -1,0 +1,107 @@
+.wholeBody{
+    background-image: url("img/1.jpg");
+}
+.centre{
+    width: 70%;
+   /*margin-left: 30%;*/
+   margin: 0 auto;
+   margin-top: 5%;
+   
+}
+.centr{
+    width: 100px;
+    margin: 0 auto;
+    /*background-color: red;*/
+
+}
+/*img{
+    width: auto;
+    margin: 0 auto;
+}*/
+.ble{
+background-color: lightblue;
+}
+.btn1{
+width: 139px;
+margin: 0 auto;
+/*background-color: red;*/
+}
+.indx{
+z-index: 9999;
+}
+
+.mrgn{
+margin-right: 2%;
+}
+.mrgnleft{
+margin-left: 2%;
+}
+.nav-menu{
+color: white; 
+text-decoration: none;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+font-size: 100%;
+
+}
+.navbaar{
+height: 50px;
+/*vertical-align: middle;*/
+background-color: #90a4ae  ;
+color: white;
+}
+.Profile{
+/* background-color:#607d8b; */
+border-radius: 2%; 
+color:black;
+font-family: GillSans, Calibri, Trebuchet, sans-serif;
+
+}
+.down{
+margin-top: 2%;
+}
+
+button{
+border-radius: 2%; 
+background-color:#607d8b ;
+color: white;
+text-decoration: none;
+
+
+}
+span{
+margin-left: 2%;
+font-size: 110%;
+/* color: #abeae7;  */
+
+}
+p{
+margin-left: 2%;
+}
+.Dua_design{
+background-color: #616161;
+font-size: 100%;
+color: ;
+border-radius: 10px;
+margin-bottom: 10px;
+border-bottom: 1.5px solid black;  
+padding-bottom: 2px;
+}
+
+.centre1{
+    width: 90%;
+   /*margin-left: 30%;*/
+   margin: 0 auto;
+   margin-top: 5%;
+}
+.commentbox{
+    /*padding: 0px;*/
+    /*padding-block-end: 2px;
+    
+*/
+/*padding-top: -2px;*/
+/*padding-bottom: -2px;*/
+width: 90%;
+border-radius: 20px;
+margin: 2px;
+}
